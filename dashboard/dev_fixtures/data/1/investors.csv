@@ -1,0 +1,41 @@
+investor_id,name,country,email,commitment_gbp,notes
+INV-001,Thaddeus Wobbleton,NL,thaddeus.wobbleton@example.invalid,714000,
+INV-002,Cordelia Hollowfield,NL,cordelia.hollowfield@example.invalid,101000,Prefers quarterly statements
+INV-003,Ottoline Puddingstone,US,ottoline.puddingstone@example.invalid,769000,
+INV-004,Marigold Fernsby,FR,marigold.fernsby@example.invalid,657000,Side letter ref MK-03D438
+INV-005,Clementine Fernsby,GB,clementine.fernsby@example.invalid,363000,Contact via IR team
+INV-006,Leopold Larkspur,NL,leopold.larkspur@example.invalid,899000,Side letter ref MK-14360D
+INV-007,Hermione Thistlewood,NL,hermione.thistlewood@example.invalid,504000,
+INV-008,Marigold Mapleworth,GB,marigold.mapleworth@example.invalid,429000,
+INV-009,Augustin Larkspur,US,augustin.larkspur@example.invalid,411000,
+INV-010,Marigold Fable,IE,marigold.fable@example.invalid,581000,
+INV-011,Leopold Ashgrove,US,leopold.ashgrove@example.invalid,736000,
+INV-012,Philippa Fable,IE,philippa.fable@example.invalid,174000,
+INV-013,Montague Inkwell,IE,montague.inkwell@example.invalid,620000,Side letter ref MK-83073F
+INV-014,Leopold Quill,NL,leopold.quill@example.invalid,386000,
+INV-015,Hermione Ashgrove,SG,hermione.ashgrove@example.invalid,527000,
+INV-016,Rosalind Hollowfield,FR,rosalind.hollowfield@example.invalid,450000,
+INV-017,Fitzgerald Fernsby,US,fitzgerald.fernsby@example.invalid,272000,
+INV-018,Peregrine Pemberton-Fake,NL,peregrine.pemberton-fake@example.invalid,238000,
+INV-019,Clementine Hollowfield,SG,clementine.hollowfield@example.invalid,309000,Prefers quarterly statements
+INV-020,Fitzgerald Quill,GB,fitzgerald.quill@example.invalid,147000,
+INV-021,Clementine Brambleby,US,clementine.brambleby@example.invalid,115000,Prefers quarterly statements
+INV-022,Marigold Fernsby,FR,marigold.fernsby@example.invalid,592000,
+INV-023,Peregrine Ashgrove,IE,peregrine.ashgrove@example.invalid,390000,
+INV-024,Barnaby Inkwell,GB,barnaby.inkwell@example.invalid,513000,
+INV-025,Ignatius Thistlewood,FR,ignatius.thistlewood@example.invalid,698000,Side letter ref MK-442A89
+INV-026,Clementine Hollowfield,GB,clementine.hollowfield@example.invalid,313000,
+INV-027,Fitzgerald Wobbleton,GB,fitzgerald.wobbleton@example.invalid,222000,
+INV-028,Augustin Larkspur,NL,augustin.larkspur@example.invalid,325000,
+INV-029,Marigold Quill,US,marigold.quill@example.invalid,612000,
+INV-030,Montague Ashgrove,NL,montague.ashgrove@example.invalid,211000,
+INV-031,Marigold Fernsby,DE,marigold.fernsby@example.invalid,67000,
+INV-032,Rosalind Wobbleton,GB,rosalind.wobbleton@example.invalid,678000,
+INV-033,Philippa Pemberton-Fake,DE,philippa.pemberton-fake@example.invalid,132000,KYC refreshed
+INV-034,Ottoline Pemberton-Fake,IE,ottoline.pemberton-fake@example.invalid,458000,
+INV-035,Fitzgerald Mapleworth,IE,fitzgerald.mapleworth@example.invalid,68000,
+INV-036,Rosalind Puddingstone,SG,rosalind.puddingstone@example.invalid,482000,Side letter ref MK-BE31D6
+INV-037,Marigold Noodlebrook,GB,marigold.noodlebrook@example.invalid,688000,
+INV-038,Ignatius Wobbleton,SG,ignatius.wobbleton@example.invalid,114000,
+INV-039,Ottoline Ashgrove,FR,ottoline.ashgrove@example.invalid,145000,
+INV-040,Thaddeus Fable,DE,thaddeus.fable@example.invalid,102000,

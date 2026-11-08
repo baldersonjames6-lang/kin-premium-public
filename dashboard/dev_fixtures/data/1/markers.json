@@ -1,0 +1,26 @@
+{
+  "seed": 1,
+  "FAKE": true,
+  "markers": [
+    {
+      "marker": "MK-03D438",
+      "investor_id": "INV-004"
+    },
+    {
+      "marker": "MK-14360D",
+      "investor_id": "INV-006"
+    },
+    {
+      "marker": "MK-83073F",
+      "investor_id": "INV-013"
+    },
+    {
+      "marker": "MK-442A89",
+      "investor_id": "INV-025"
+    },
+    {
+      "marker": "MK-BE31D6",
+      "investor_id": "INV-036"
+    }
+  ]
+}

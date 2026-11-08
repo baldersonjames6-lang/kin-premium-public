@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kin Premium · Review console</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="/static/css/app.css">
+<script src="/static/js/theme.js"></script>
+</head>
+<body>
+<aside class="rail" aria-label="Sections">
+  <div class="brand">
+    <div class="eyebrow">Apart Research · Nov 2026</div>
+    <h1>Is there a <em>kin premium</em>?</h1>
+    <p>Review console: true vs claimed kinship in multi-agent rule-breaking.</p>
+  </div>
+  <div class="progress" id="progress"></div>
+  <nav class="nav" id="nav">
+    <a href="#/guide" data-r="guide"><span class="k">01</span><span>Guide</span><span class="meta" id="nav-guide"></span></a>
+    <a href="#/live" data-r="live"><span class="k">02</span><span>Live run</span><span class="meta" id="nav-live"></span></a>
+    <a href="#/catalogue" data-r="catalogue"><span class="k">03</span><span>Playback</span><span class="meta" id="nav-cat"></span></a>
+    <a href="#/blind" data-r="blind"><span class="k">04</span><span>Blind review</span><span class="meta" id="nav-blind"></span></a>
+    <a href="#/code" data-r="code"><span class="k">05</span><span>Code</span><span class="meta"></span></a>
+    <a href="#/integrity" data-r="integrity"><span class="k">06</span><span>Data integrity</span><span class="meta" id="nav-int"></span></a>
+    <a href="#/report" data-r="report"><span class="k">07</span><span>Results &amp; report</span><span class="meta"></span></a>
+  </nav>
+  <div class="foot">
+    <label class="switch"><span>Show FAKE demo data</span><input type="checkbox" id="demo-toggle"></label>
+    <label class="switch"><span>Dark theme</span><input type="checkbox" id="theme-toggle"></label>
+    <div class="where" id="where"></div>
+  </div>
+</aside>
+<main id="main"><div id="view"></div></main>
+<aside class="assist" id="assist" aria-label="Assistant"><div class="inner" id="assist-inner"></div></aside>
+<button class="btn askbtn" id="askbtn" type="button">Ask about this <kbd>/</kbd></button>
+<div id="tip" role="tooltip"></div>
+<div id="toast" role="status" aria-live="polite"></div>
+<script src="/static/js/core.js"></script>
+<script src="/static/js/guide.js"></script>
+<script src="/static/js/live.js"></script>
+<script src="/static/js/playback.js"></script>
+<script src="/static/js/swarm.js"></script>
+<script src="/static/js/blind.js"></script>
+<script src="/static/js/code.js"></script>
+<script src="/static/js/integrity.js"></script>
+<script src="/static/js/report.js"></script>
+<script src="/static/js/assistant.js"></script>
+</body>
+</html>
